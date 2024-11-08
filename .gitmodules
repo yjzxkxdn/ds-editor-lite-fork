@@ -1,12 +1,13 @@
 [submodule "src/libs/talcs"]
 	path = src/libs/talcs
-	url = git@github.com:CrSjimo/talcs
+	url = https://github.com/CrSjimo/talcs
 [submodule "src/libs/qtmediate"]
 	path = src/libs/qtmediate
 	url = https://github.com/flutydeer/qtmediate
 [submodule "src/libs/svscraft"]
 	path = src/libs/svscraft
-	url = git@github.com:diffscope/svscraft
+	url = https://github.com/diffscope/svscraft
 [submodule "src/libs/dsonnxinfer"]
 	path = src/libs/dsonnxinfer
 	url = https://github.com/Jobsecond/dsonnxinfer
+
